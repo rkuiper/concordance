@@ -1,0 +1,11 @@
+Package: concordance
+Type: Package
+Title: Concordance
+Version: 2.0.0
+Date: 2016-02-12
+Author: Rowan Kuiper and Remco Hoogenboezem
+Maintainer: R.Kuiper <rowankuiper@gmail.com>
+Description: Momo: A non-parametric test for multi-observer concordance and differences between concordances in incomplete data
+License: GPL (>= 3)
+Depends: R (>= 3.0.0)
+

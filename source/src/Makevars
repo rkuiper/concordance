@@ -1,0 +1,7 @@
+#PKG_CXXFLAGS=-std=c++11 -std=gnu++11
+PKG_CXXFLAGS=-std=c++0x -std=gnu++0x
+
+
+
+
+

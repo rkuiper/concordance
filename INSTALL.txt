@@ -1,0 +1,23 @@
+R package concordance
+
+All following is assumed to be run from within the R terminal
+
+
+Requirements:
+A working R version >=3 
+
+
+Installation:
+For 32- and 64-bit Windows and 64-bit Linux binaries have been compiled:
+
+Installation under Windows from within R:
+install.packages("concordance_2.0.0.zip")
+
+Installation under Linux from within R:
+install.packages("concordance_2.0.0_R_x86_64-pc-linux-gnu.tar.gz")
+
+
+Howto Start:
+
+library(concordance)
+?concordance.test
